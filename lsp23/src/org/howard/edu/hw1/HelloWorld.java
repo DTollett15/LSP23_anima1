@@ -3,7 +3,7 @@
  */
 
 
-package lsp23.h1;
+package org.howard.edu.hw1;
 
 public class HelloWorld {
 

@@ -1,0 +1,1 @@
+design and code a program that reads a text file and counts the number of times each word that the text file contains appears
